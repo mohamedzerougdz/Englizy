@@ -37,17 +37,17 @@ No payments required and absolutely no intrusive ads — enjoy the full experien
 # Screenshots
 
 <p align="center">
-  <img src="screenshots/screen.png" width="30%">
-  <img src="screenshots/screen (1).png" width="30%">
-  <img src="screenshots/screen (2).png" width="30%">
+  <img src="screenshots/screen1.png" width="30%">
+  <img src="screenshots/screen2.png" width="30%">
+  <img src="screenshots/screen3.png" width="30%">
 </p>
 <p align="center">
-  <img src="screenshots/screen (3).png" width="30%">
-  <img src="screenshots/screen (4).png" width="30%">
-  <img src="screenshots/screen (5).png" width="30%">
+  <img src="screenshots/screen4.png" width="30%">
+  <img src="screenshots/screen5.png" width="30%">
+  <img src="screenshots/screen6.png" width="30%">
 </p>
 <p align="center">
-  <img src="screenshots/screen (6).png" width="30%">
-  <img src="screenshots/screen (7).png" width="30%">
-  <img src="screenshots/screen (8).png" width="30%">
+  <img src="screenshots/screen7.png" width="30%">
+  <img src="screenshots/screen8.png" width="30%">
+  <img src="screenshots/screen9.png" width="30%">
 </p>
