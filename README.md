@@ -1,4 +1,4 @@
-## Englizy
+# Englizy
 <p align="center">
   <img src="screenshots/EnglizyLogo.png">
 </p>
