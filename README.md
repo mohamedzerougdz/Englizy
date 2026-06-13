@@ -39,9 +39,13 @@ A rich collection of educational materials, available exclusively within this si
 
 No payments required and absolutely no intrusive ads — enjoy the full experience at no cost.
 
-### Changelog
+# Official Website
 
-No payments required and absolutely no intrusive ads — enjoy the full experience at no cost.
+For more information about the application, including terms and conditions and privacy policy, please visit our: [official website](https://englizyapp.blogspot.com).
+
+# Changelog
+
+To view the changes in the latest update, please go to the following website: [Changelog](https://englizyapp.blogspot.com/p/updatelog.html).
 
 # Screenshots
 
