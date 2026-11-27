@@ -1,48 +1,53 @@
-# إنجليزي Englizy
+# Englizy إنجليزي
 <p align="center">
   <img src="screenshots/EnglizyLogo.png">
 </p>
 
-# تطبيق لتعلم اللغة الإنجليزية للناطقين بالعربية
+# English Learning App for Arabic Speakers
 
-تطبيق تعليمي شامل مصمم لتطوير مهاراتك في اللغة الإنجليزية دون الحاجة للاتصال بالإنترنت.
+A comprehensive educational app designed to improve your English language skills offline, without the need for an internet connection.
 
-# محتويات التطبيق
+# App Contents
 
-أهم قواعد اللغة الإنجليزية مقسمة إلى عدة مستويات تعليمية.
-قواميس متنوعة للكلمات والتعبيرات، بالإضافة إلى مئات العبارات والجمل.
-أهم الأفعال الإنجليزية مصرفة في جميع الصيغ الممكنة، بما في ذلك الأفعال الشاذة.
-مئات القصص القصيرة وعشرات المحادثات اليومية.
-عشرة كتب كاملة وذات تقييم عالٍ.
-محول نص إلى كلام مع خيارات صوت قابلة للتخصيص.
+- The most important English grammar rules, divided into multiple learning levels.
 
-# المميزات
+- Various dictionaries for words and expressions, plus hundreds of phrases and sentences.
 
-### مرونة عالية
+- The most essential English verbs conjugated in all possible forms, including irregular ones.
 
-متجاوب بالكامل ومُحسّن لجميع أحجام الشاشات، مما يضمن تجربة سلسة لكل مستخدم.
+- Hundreds of short stories and dozens of daily conversations.
 
-### العمل دون اتصال بالإنترنت
+- Ten complete, high-rated books.
 
-مصمم لتوفير المحتوى التعليمي حتى في حال عدم توفر اتصال بالإنترنت — مثالي للمستخدمين ذوي الاتصال المحدود.
+- A text-to-speech converter with customizable voice options.
 
-### محتوى حصري
+# Features
 
-مجموعة غنية من المواد التعليمية المتوفرة حصرياً داخل هذا التطبيق الواحد.
+### High Flexibility
 
-### مجاني بالكامل
+Fully responsive and optimized for all screen sizes, ensuring a seamless experience for every user.
 
-لا يتطلب أي مدفوعات وخالٍ تماماً من الإعلانات المزعجة — استمتع بالتجربة الكاملة دون أي تكلفة.
+### Offline Access
 
-# الموقع الرسمي
+Designed to provide educational content even without an internet connection — ideal for users with limited connectivity.
 
-لمزيد من المعلومات حول التطبيق، بما في ذلك الشروط والأحكام وسياسة الخصوصية، يرجى زيارة: [الموقع الرسمي](https://englizyapp.blogspot.com).
+### Exclusive Content
 
-# سجل التغييرات
+A rich collection of educational materials, available exclusively within this single application.
 
-للاطلاع على التغييرات في التحديث الأخير، يرجى الانتقال إلى الموقع التالي: [سجل التغييرات](https://englizyapp.blogspot.com/p/updatelog.html).
+### Completely Free
 
-# لقطات الشاشة
+No payments required and absolutely no intrusive ads — enjoy the full experience at no cost.
+
+# Official Website
+
+For more information about the application, including terms and conditions and privacy policy, please visit our: [official website](https://englizyapp.blogspot.com).
+
+# Changelog
+
+To view the changes in the latest update, please go to the following website: [Changelog](https://englizyapp.blogspot.com/p/updatelog.html).
+
+# Screenshots
 
 <p align="center">
   <img src="screenshots/screen1.png" width="30%">
@@ -59,3 +64,5 @@
   <img src="screenshots/screen8.png" width="30%">
   <img src="screenshots/screen9.png" width="30%">
 </p>
+
+
